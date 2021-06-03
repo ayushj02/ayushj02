@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayushj02
-- 👀 I’m interested in Front End Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
