@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushj02
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... gmail: ayushjadhav787@gmail.com
 
